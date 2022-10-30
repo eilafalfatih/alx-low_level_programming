@@ -5,13 +5,12 @@
  *
  * Return: always 0 (success)
  */
-int main()
+int main(void)
 {
+	char u[] = " Programming is like building a multinigual puzzle\n";
 
-	char u[] = " Programming is like building a multinigual puzzle";
-	
 	puts(u);
-	
+
 	return (0);
 }
 
