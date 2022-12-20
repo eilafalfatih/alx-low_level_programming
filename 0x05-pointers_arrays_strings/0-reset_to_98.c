@@ -1,15 +1,12 @@
+#include "holberton.h"
+/**
+ * reset_to_98 - reset argument to 98
+ * @n: pointer
+ * Return: void
+ */
 
-#include <stdio.h>
+void reset_to_98(int *n)
+{
+	*n = 98;
 
-int main(void){
-	int a;
-	int b:
-
-	a= 98;
-	b= 42;
-	printf("a=%d, b=%d\n", a, b);
-	swap_int(&a, &b);
-	printf("a=%d, b=%d\n", a, b);
-	return(0);
-	
 }
