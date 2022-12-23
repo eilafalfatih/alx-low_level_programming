@@ -1,10 +1,14 @@
 #include "main.h"
 #include <stdio.h>
+
 /**
- * Main - print _putchar
- * descritption: the program prints a string
- * Return :0
+ * main - Entry point
+ * 
+ * Description: ' the program print _putchar'
+ *
+ * Return: always 0 (success)
  */
+
 int main(void)
 {
 	printf("_putchar\n");
