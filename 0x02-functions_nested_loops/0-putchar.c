@@ -3,8 +3,6 @@
 
 /**
  * main - Entry point
- * 
- * Description: ' the program print _putchar'
  *
  * Return: always 0 (success)
  */
