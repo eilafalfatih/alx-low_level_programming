@@ -3,7 +3,9 @@
 /**
  * print_alpahbet - entry point
  *
- * Return : 0
+ * description : ' it print alphabets'
+ *
+ * Return : 0 (sucess)
  */
 void print_alphabet(void)
 {
